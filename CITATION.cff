@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Quantum States and Coherence-Admissibility: Dependency & Falsification Module"
+authors:
+  - family-names: Valamontes
+    given-names: Antonios
+version: 1.0.0
+date-released: 2026-02-04
+repository-code: "https://github.com/YOUR-USERNAME/quantum-states-coherence-admissibility"
+license: CC-BY-4.0
