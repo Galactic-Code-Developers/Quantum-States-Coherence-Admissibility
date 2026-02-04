@@ -24,12 +24,12 @@
     "notes": "Canonical archival release of the Corpus Dependency & Falsification Module (CDFM). This record is structural metadata and introduces no additional physical assumptions.",
     "related_identifiers": [
       {
-        "identifier": "https://github.com/YOUR-USERNAME/quantum-states-coherence-admissibility",
+        "identifier": "https://github.com/Galactic-Code-Developers/Quantum-States-Coherence-Admissibility",
         "relation": "isSupplementTo",
         "resource_type": "software"
       },
       {
-        "identifier": "https://github.com/YOUR-USERNAME/quantum-states-coherence-admissibility",
+        "identifier": "https://github.com/Galactic-Code-Developers/Quantum-States-Coherence-Admissibility",
         "relation": "isDocumentedBy",
         "resource_type": "other"
       }
