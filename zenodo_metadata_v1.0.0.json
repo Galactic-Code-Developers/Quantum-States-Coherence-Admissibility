@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Corpus Dependency & Falsification Module for Quantum States and Coherence-Admissibility",
+    "upload_type": "other",
+    "description": "This deposit archives the canonical dependency graph (Stage I–VI) and falsification map governing the coherence-admissibility research program introduced in \"Quantum States and Coherence-Admissibility\".\n\nThe material defines scope boundaries, logical dependencies, and falsification conditions. It does not introduce new physical models or results and is intended for verbatim reuse across related publications.",
+    "creators": [
+      {
+        "name": "Valamontes, Antonios",
+        "affiliation": "Kapodistrian Academy of Science"
+      }
+    ],
+    "publication_date": "2026-02-04",
+    "version": "1.0.0",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "keywords": [
+      "quantum foundations",
+      "quantum states",
+      "coherence",
+      "decoherence",
+      "falsifiability",
+      "research metadata"
+    ],
+    "notes": "Canonical archival release of the Corpus Dependency & Falsification Module (CDFM). This record is structural metadata and introduces no additional physical assumptions.",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/YOUR-USERNAME/quantum-states-coherence-admissibility",
+        "relation": "isSupplementTo",
+        "resource_type": "software"
+      },
+      {
+        "identifier": "https://github.com/YOUR-USERNAME/quantum-states-coherence-admissibility",
+        "relation": "isDocumentedBy",
+        "resource_type": "other"
+      }
+    ]
+  }
+}
